@@ -5,7 +5,7 @@
 
 <!-- 🧃 Animated Typing Message -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F58DAF&center=true&width=435&lines=staying+curious...;building+quietly...;softness+is+strength." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F58DAF&center=true&width=435&lines=This+page+is+in+progress..." />
 </p>
 
 <!-- 🎞️ GIF -->
