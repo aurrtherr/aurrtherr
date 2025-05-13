@@ -2,7 +2,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=100&section=header&text=Hi,%20I'm%20Esther!&fontSize=28&animation=fadeIn" />
 </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/aureliaesther/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_aesther">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/aurrtherr">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@aurrtherr">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" />
+  </a>
+</p>
 <!-- 🧃 Animated Typing Message -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F58DAF&center=true&width=435&lines=This+page+is+in+progress..." />
@@ -24,25 +40,6 @@
 
 ---
 
-### 📫 let's connect?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aureliaesther/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_aesther">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/aurrtherr">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://youtube.com/@aurrtherr">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" />
-  </a>
-</p>
 
 ---
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
