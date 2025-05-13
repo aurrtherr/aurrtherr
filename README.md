@@ -10,7 +10,7 @@
 
 <!-- 🎞️ GIF -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V2YjQ2bDJrdjNhbHlhM2x4MzB2czgwdnFnaWZjaW16MXR1aWZ4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Fen6U1xLx2kbeS1f8/giphy.gif" height="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI3OTNnbGM5MDBhNWQyOXd1ankxYnk4bGs0M3dpMnoyM2tsb25wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sxtxMmbHzBYru/giphy.gif" height="200"/>
 </p>
 
 ---
