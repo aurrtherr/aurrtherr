@@ -28,18 +28,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aureliaesther/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/_aesther">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://t.me/aurrtherr">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" />
   </a>
+  &nbsp;
   <a href="https://youtube.com/@aurrtherr">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" />
   </a>
 </p>
+
 
 
 ---
