@@ -45,51 +45,53 @@
 </p>
 
 ---
-### 🧰 tools i've explored (and loved)
+<h2> 🧰 &nbsp;Tools I've Explored (and Loved)</h2>
 
-#### 💻 Programming & Data  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)  
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
+<!-- 💻 Programming & Data -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+</p>
 
-#### 🧠 AI & ML  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy)  
-![NLTK](https://img.shields.io/badge/NLTK-FFB300?style=flat&logo=nltk)  
-![FLAN-T5](https://img.shields.io/badge/FLAN--T5-00599C?style=flat&logo=google)  
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF4088?style=flat&logo=deepnote)  
-![CNN](https://img.shields.io/badge/Deep_Learning-CNN-blueviolet?style=flat)
+<!-- 🧠 AI & ML -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+</p>
 
-#### 🧪 Backend & DevOps  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)  
-![OpenShift](https://img.shields.io/badge/OpenShift-E00?style=flat&logo=redhat)
+<!-- 🧪 Backend & DevOps -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+</p>
 
-#### 🌐 Frontend & UI/UX  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+<!-- 🌐 Frontend & UI/UX -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+</p>
 
-#### 📊 Data Science  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib)
+<!-- 📊 Data Science & BI -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
+</p>
 
-#### 🎨 Design & Media  
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop)  
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator)  
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobe-lightroom)  
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro)  
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva)  
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000000?style=flat)
+<!-- 🎨 Design & Media -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="40" />
+</p>
 
 ---
 
